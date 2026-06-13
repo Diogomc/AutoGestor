@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoGestor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c276055ebbde8e40dd5c098e0fa714e043efbad1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d3e7fe0dc9808089293972a33257e24d4a0370f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoGestor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoGestor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
