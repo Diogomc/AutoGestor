@@ -6,7 +6,6 @@ public class WorkOrder
     public string Complaint {get; set;}
     public string RequestedServices { get; set; }
     public string Diagnostic { get; set; }
-    public Vehicle vehicle { get; set; }
 
     public Client Client { get; set; }
     public int ClientId { get; set; }
