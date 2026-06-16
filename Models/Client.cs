@@ -9,4 +9,5 @@ public class Client
 
     public ICollection<Vehicle> Vehicles { get; set; }
     public ICollection<WorkOrder> WorkOrders { get; set; }
+   
 }

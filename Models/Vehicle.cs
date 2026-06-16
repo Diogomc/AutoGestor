@@ -9,8 +9,8 @@ public class Vehicle
     public string Color { get; set; }
     public string Plate { get; set; }
 
-    public int ClientId { get; set; }
     public Client Client { get; set; }
+    public int ClientId { get; set; }
 
     public ICollection<WorkOrder> WorkOrders { get; set; }
 

@@ -8,11 +8,10 @@ public class WorkOrder
     public string Diagnostic { get; set; }
     public Vehicle vehicle { get; set; }
 
-    public int VehicleId { get; set; }
-    public Vehicle Vehicle { get; set; }
-
-    public int ClientId { get; set; }
     public Client Client { get; set; }
+    public int ClientId { get; set; }
 
+    public Vehicle Vehicle { get; set; }
+    public int VehicleId { get; set; }
 
 }
